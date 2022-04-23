@@ -1,4 +1,4 @@
-UpColours-Segmentation-project
+**UpColours Segmentation project**
 
 UpColours, an art company, decided to create different initiatives to improve their revenue. Their current strategy is analyzing customer behavior by building a descriptive model to improve the marketing campaigns efficiency. Hence, to create a reliable segmentation, the data was initially explored, pre-processed and transformed to then cluster the customers by similarities and campaign acceptance using segmentation techniques such as K-Means, SOM, DBSCAN and Hierarchical clustering.
 
